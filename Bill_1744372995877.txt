@@ -1,0 +1,11 @@
+======== RESTAURANT BILL SLIP ========
+Customer Name : RAMAN
+Mobile Number : 5625745870
+---------------------------------------
+Item          : Burger
+Price/Item    : ₹150
+Quantity      : 9
+Total Amount  : ₹1350
+---------------------------------------
+Thank you for visiting us!
+=======================================
